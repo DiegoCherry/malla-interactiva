@@ -99,5 +99,9 @@
   {
     "Nombre": "Ingeniería en Biotecnología",
     "Link": "IBT"
-  }
+  },
+	{
+    "Nombre": "Enfermeria",
+    "Link": "ENFF"
+  	}
 ]
