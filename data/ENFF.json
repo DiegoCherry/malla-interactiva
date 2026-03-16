@@ -1,77 +1,70 @@
 {
- "name": "ENFF",
- "malla": {
-    "s1": [
-        ["Bases morfológicas e histológicas del ser humano", "ANAT060", null, 0, "Custom", [], ""],
-        ["Biología celular", "BIMI055", null, 0, "Custom", [], ""],
-        ["Comunicación en lengua inglesa nivel básico", "CIDI067", null, 0, "Custom", [], ""],
-        ["Educación física y salud", "DYRE070", null, 0, "Custom", [], ""],
-        ["Bases conceptuales de la enfermería", "ENFA051", null, 0, "Custom", [], ""],
-        ["Introducción a los estudios universitarios", "ESEN062", null, 0, "Custom", [], ""],
-        ["Bases de química general y orgánica", "QUIM064", "", 0, "QUIM", [], ""]
-    ],
-    "s2": [
-        ["Bioquímica general", "BIOQ077", null, 0, "Custom", [], ""],
-        ["Comunicación en lengua inglesa nivel intermedio", "CIDI081", null, 0, "Custom", [], ""],
-        ["OFG 1", "ELECT12", null, 0, "Custom", [], ""],
-        ["Fundamentos disciplinares teóricos y prácticos de la enfermería", "ENFA070", null, 0, "Custom", [], ""],
-        ["Fisiología humana", "FISL075", null, 0, "Custom", [], ""],
-        ["Psicología antropológica", "PSIQ080", null, 0, "Custom", [], ""],
-        ["Bases conceptuales de la salud pública y colectiva", "SALP083", null, 0, "Custom", [], ""],
-        ["Habilidades informacionales", "SALP085", null, 0, "Custom", [], ""]
-    ],
-    "s3": [
-        ["Cuidados de enfermería de personas adultas y mayores con necesidades de salud", "ENFA092", null, 0, "Custom", [], ""],
-        ["Bioética y profesión", "ENFA096", null, 0, "Custom", [], ""],
-        ["Fisiopatología humana", "HIPA093", null, 0, "Custom", [], ""],
-        ["Agentes patógenos en el ser humano", "PRST091", null, 0, "Custom", [], ""],
-        ["Psicología del desarrollo", "PSIQ097", null, 0, "Custom", [], ""]
-    ],
-    "s4": [
-        ["Cuidados de enfermería de la niña, el niño y adolescentes con necesidades de salud", "ENFA098", null, 0, "Custom", [], ""],
-        ["Salud sexual y reproductiva en la mujer", "ENFM090", null, 0, "Custom", [], ""],
-        ["Metodología de la investigación en salud", "ESTD093", null, 0, "Custom", [], ""],
-        ["Farmacología y toxicología", "FARM099", null, 0, "Custom", [], ""],
-        ["Epidemiología y demografía", "SALP095", null, 0, "Custom", [], ""]
-    ],
-    "s5": [
-        ["Cuidados de enfermería de personas adultas y mayores en el proceso de salud y enfermedad", "ENFA103", null, 0, "Custom", [], ""],
-        ["Introducción a la enfermería clínica", "ESEN125", null, 0, "Custom", [], ""],
-        ["Enfermedades prevalentes de personas adultas y mayores", "MEDI120", null, 0, "Custom", [], ""],
-        ["Enfermería en salud mental y psiquiatría", "PSIQ105", null, 0, "Custom", [], ""],
-        ["Farmacología clínica para enfermería", "QFAR108", null, 0, "Custom", [], ""]
-    ],
-    "s6": [
-        ["Optativo de especialización", "ELECT114", null, 0, "Custom", [], ""],
-        ["Cuidados de enfermería de la niña, el niño y adolescentes en el proceso de salud y enfermedad", "ENFA175", null, 0, "Custom", [], ""],
-        ["Alteraciones de salud en el proceso de gestación", "ENFM170", null, 0, "Custom", [], ""],
-        ["Habilidades y herramientas para la atención de enfermería en personas en situación de crisis", "ESEN180", null, 0, "Custom", [], ""],
-        ["Bioestadística", "ESTD172", null, 0, "Custom", [], ""],
-        ["Enfermedades prevalentes de la niña, el niño y adolescentes", "PEDI173", null, 0, "Custom", [], ""]
-    ],
-    "s7": [
-        ["Cuidados de enfermería a personas en situaciones de riesgos y urgencias", "ENFA185", null, 0, "Custom", [], ""],
-        ["Investigación cualitativa", "ENFA188", null, 0, "Custom", [], ""],
-        ["Políticas y sistemas de salud", "SALP190", null, 0, "Custom", [], ""]
-    ],
-    "s8": [
-        ["Liderazgo integrador en la gestión del cuidado", "ENFA192", null, 0, "Custom", [], ""],
-        ["Proyecto de investigación", "ENFA194", null, 0, "Custom", [], ""],
-        ["Herramientas de gestión e innovación en salud", "SALP195", null, 0, "Custom", [], ""]
-    ],
-    "s9": [
-        ["Optativo de profundización I", "ELECT112", null, 0, "Custom", [], ""],
-        ["Avance de investigación", "ENFA204", null, 0, "Custom", [], ""],
-        ["Gestión del cuidado en atención ambulatoria", "ENFA205", null, 0, "Custom", [], ""]
-    ],
-    "s10": [
-        ["Optativo de profundización II", "ELECT116", null, 0, "Custom", [], ""],
-        ["Gestión del cuidado en atención hospitalaria", "ENFA207", null, 0, "Custom", [], ""],
-        ["Trabajo de investigación", "ESEN298", null, 0, "Custom", [], ""]
-    ]
- },
- "categories": {
-    "Custom": ["#000000", "Fuera de la malla | editado"],
-    "QUIM": ["#2cc995", "Quimica"]
- }
+  "s1": [
+    ["Bases morfológicas e histológicas del ser humano", "ANAT060", 0, 0, "Custom", [], "A"],
+    ["Biología celular", "BIMI055", 0, 0, "Custom", [], "A"],
+    ["Comunicación en lengua inglesa nivel básico", "CIDI067", 0, 0, "Custom", [], "A"],
+    ["Educación física y salud", "DYRE070", 0, 0, "Custom", [], "A"],
+    ["Bases conceptuales de la enfermería", "ENFA051", 0, 0, "ENFA", [], "A"],
+    ["Introducción a los estudios universitarios", "ESEN062", 0, 0, "Custom", [], "A"],
+    ["Bases de química general y orgánica", "QUIM064", 0, 0, "QUIM", [], "A"]
+  ],
+  "s2": [
+    ["Bioquímica general", "BIOQ077", 0, 0, "Custom", [], "A"],
+    ["Comunicación en lengua inglesa nivel intermedio", "CIDI081", 0, 0, "Custom", [], "A"],
+    ["OFG 1", "ELECT12", 0, 0, "OFG", [], "A"],
+    ["Fundamentos disciplinares teóricos y prácticos de la enfermería", "ENFA070", 0, 0, "ENFA", [], "A"],
+    ["Fisiología humana", "FISL075", 0, 0, "Custom", [], "A"],
+    ["Psicología antropológica", "PSIQ080", 0, 0, "PSIQ", [], "A"],
+    ["Bases conceptuales de la salud pública y colectiva", "SALP083", 0, 0, "SALP", [], "A"],
+    ["Habilidades informacionales", "SALP085", 0, 0, "Custom", [], "A"]
+  ],
+  "s3": [
+    ["Cuidados de enfermería de personas adultas y mayores con necesidades de salud", "ENFA092", 0, 0, "ENFA", [], "A"],
+    ["Bioética y profesión", "ENFA096", 0, 0, "ENFA", [], "A"],
+    ["Fisiopatología humana", "HIPA093", 0, 0, "Custom", [], "A"],
+    ["Agentes patógenos en el ser humano", "PRST091", 0, 0, "Custom", [], "A"],
+    ["Psicología del desarrollo", "PSIQ097", 0, 0, "PSIQ", [], "A"]
+  ],
+  "s4": [
+    ["Cuidados de enfermería de la niña, el niño y adolescentes con necesidades de salud", "ENFA098", 0, 0, "ENFA", [], "A"],
+    ["Salud sexual y reproductiva en la mujer", "ENFM090", 0, 0, "ENFA", [], "A"],
+    ["Metodología de la investigación en salud", "ESTD093", 0, 0, "Custom", [], "A"],
+    ["Farmacología y toxicología", "FARM099", 0, 0, "Custom", [], "A"],
+    ["Epidemiología y demografía", "SALP095", 0, 0, "SALP", [], "A"]
+  ],
+  "s5": [
+    ["Cuidados de enfermería de personas adultas y mayores en el proceso de salud y enfermedad", "ENFA103", 0, 0, "ENFA", [], "A"],
+    ["Introducción a la enfermería clínica", "ESEN125", 0, 0, "Custom", [], "A"],
+    ["Enfermedades prevalentes de personas adultas y mayores", "MEDI120", 0, 0, "Custom", [], "A"],
+    ["Enfermería en salud mental y psiquiatría", "PSIQ105", 0, 0, "PSIQ", [], "A"],
+    ["Farmacología clínica para enfermería", "QFAR108", 0, 0, "Custom", [], "A"]
+  ],
+  "s6": [
+    ["Optativo de especialización", "ELECT114", 0, 0, "Custom", [], "A"],
+    ["Cuidados de enfermería de la niña, el niño y adolescentes en el proceso de salud y enfermedad", "ENFA175", 0, 0, "ENFA", [], "A"],
+    ["Alteraciones de salud en el proceso de gestación", "ENFM170", 0, 0, "ENFA", [], "A"],
+    ["Habilidades y herramientas para la atención de enfermería en personas en situación de crisis", "ESEN180", 0, 0, "Custom", [], "A"],
+    ["Bioestadística", "ESTD172", 0, 0, "Custom", [], "A"],
+    ["Enfermedades prevalentes de la niña, el niño y adolescentes", "PEDI173", 0, 0, "Custom", [], "A"]
+  ],
+  "s7": [
+    ["Cuidados de enfermería a personas en situaciones de riesgos y urgencias", "ENFA185", 0, 0, "ENFA", [], "A"],
+    ["Investigación cualitativa", "ENFA188", 0, 0, "ENFA", [], "A"],
+    ["Políticas y sistemas de salud", "SALP190", 0, 0, "SALP", [], "A"]
+  ],
+  "s8": [
+    ["Liderazgo integrador en la gestión del cuidado", "ENFA192", 0, 0, "ENFA", [], "A"],
+    ["Proyecto de investigación", "ENFA194", 0, 0, "ENFA", [], "A"],
+    ["Herramientas de gestión e innovación en salud", "SALP195", 0, 0, "SALP", [], "A"]
+  ],
+  "s9": [
+    ["Optativo de profundización I", "ELECT112", 0, 0, "Custom", [], "A"],
+    ["Avance de investigación", "ENFA204", 0, 0, "ENFA", [], "A"],
+    ["Gestión del cuidado en atención ambulatoria", "ENFA205", 0, 0, "ENFA", [], "A"]
+  ],
+  "s10": [
+    ["Optativo de profundización II", "ELECT116", 0, 0, "Custom", [], "A"],
+    ["Gestión del cuidado en atención hospitalaria", "ENFA207", 0, 0, "ENFA", [], "A"],
+    ["Trabajo de investigación", "ESEN298", 0, 0, "Custom", [], "A"]
+  ]
 }
