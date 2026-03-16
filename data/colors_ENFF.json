@@ -1,0 +1,9 @@
+{
+  "Custom": ["#808080", "Fuera de la malla | editado"],
+  "QUIM": ["#2cc995", "Química"],
+  "ENFA": ["#e67c73", "Enfermería"],
+  "CIB": ["#5cbae6", "Ciencias Básicas"],
+  "SALP": ["#8bceaa", "Salud Pública"],
+  "PSIQ": ["#b68cb8", "Psicología y Salud Mental"],
+  "OFG": ["#fac364", "Formación General"]
+}
